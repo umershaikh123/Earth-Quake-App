@@ -13,7 +13,7 @@ Use of Loaders to ensure the request is running on the background threat and pre
 #### Intents
 #### How to traverse and use Json format
 #### working with URLS
-#### Using of spinner to show loading progress
+#### Using of circle loading bar to show loading progress
 
 ## Front page
 <p align="center">
